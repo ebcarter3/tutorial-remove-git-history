@@ -1,0 +1,17 @@
+{
+  "name": "tutorial-remove-git-history",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ebcarter3/tutorial-remove-git-history.git",
+  "author": "Blair Carter <blair.carter@asurion.com>",
+  "license": "MIT",
+  "scripts": {
+    "runIt": "tsc printer.ts; node printer.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.9"
+  }
+}

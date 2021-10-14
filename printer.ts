@@ -7,6 +7,7 @@ function readUsers (userFile) {
 }
 
 function printUser (users) {
+    // comment 
     console.log(users)
 }
 
